@@ -1,13 +1,3 @@
----
-title: "Teaching experience"
-collection: teaching
-type: 
-permalink: /teaching/teaching
-venue: 
-date: 
-location: 
----
-
 # Teaching experience
 
 ### Current (Fall, 2022)
