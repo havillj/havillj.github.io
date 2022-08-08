@@ -1,4 +1,10 @@
-My research largely focuses on the design and analysis of algorithms for online network routing and machine scheduling problems. An online algorithm is one that processes its input one element at a time instead of all at once like a traditional algorithm. For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later. Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future. Instead, we try to design algorithms that find solutions that are provably within some factor of optimal. I am also interested in problems in computational biology.
+---
+ title: "Research"
+ collection: research
+ permalink: /research/research
+ ---
+ 
+ My research largely focuses on the design and analysis of algorithms for online network routing and machine scheduling problems. An online algorithm is one that processes its input one element at a time instead of all at once like a traditional algorithm. For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later. Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future. Instead, we try to design algorithms that find solutions that are provably within some factor of optimal. I am also interested in problems in computational biology.
 
 ### Selected publications
 
