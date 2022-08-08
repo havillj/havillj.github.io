@@ -3,6 +3,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Discovering CS"
+    url: http://www.discoveringcs.net
+    
   - title: "Publications"
     url: /publications/
     
