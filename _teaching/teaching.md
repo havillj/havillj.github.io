@@ -1,4 +1,8 @@
-# Teaching experience
+---
+ title: "Teaching experience"
+ collection: teaching
+ permalink: /teaching/teaching
+ ---
 
 ### Current (Fall, 2022)
 
