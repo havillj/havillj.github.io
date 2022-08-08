@@ -9,6 +9,8 @@ author_profile: true
 
 ### Selected publications
 
+[Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming](http://www.discoveringcs.net), Second Edition. Chapman & Hall/CRC Textbooks in Computing, Taylor & Francis Group, 2021.
+
 Embracing the Liberal Arts in an Interdisciplinary Data Analytics Program.  *ACM SIGCSE Technical Symposium on Computer Science Education*, 2019.
 
 Improved Upper Bounds for Online Malleable Job Scheduling (with N. Kell). *Journal of Scheduling* 18(4), pp. 393 —410, 2015.
