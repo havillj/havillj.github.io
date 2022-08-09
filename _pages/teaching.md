@@ -8,7 +8,6 @@ author_profile: true
 ### Current (Fall, 2022)
 
 - CSCI 204: Data Structures & Algorithms
-
 - CSCI 311: Algorithm Design & Analysis
 
 ### Past (Denison University)
