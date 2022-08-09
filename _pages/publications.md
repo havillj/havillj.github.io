@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <p style='margin-left:1em;margin-right:1em;'>
-I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti</i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
+I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti</i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a set of specimens from around the world.
 </p>
 </div>
 
@@ -57,7 +57,7 @@ With largely the same goals, in my previous position, I proposed a new interdisc
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <p style='margin-left:1em;margin-right:1em;'>
-An online algorithm is designed to respond to input as it arrives in a stream rather than all at once like a "traditional" algorithm.  For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later.  Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future.  Instead, we try to design an online algorithm whose performance, for all possible inputs, is provably within some small factor of that of an optimal algorithm that sees all of the input in advance.
+An online algorithm is designed to respond to input as it arrives in a stream rather than all at once like a "traditional" algorithm.  For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later.  Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future.  Instead, we try to design online algorithms whose performance, for all possible inputs, is provably within some small factor of that of an optimal algorithm that sees all of the input in advance.
 </p>
 </div>
 
