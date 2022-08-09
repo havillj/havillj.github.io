@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+Office: Dana Engineering 326
+
