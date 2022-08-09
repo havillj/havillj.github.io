@@ -10,7 +10,7 @@ author_profile: true
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <span>
 <p style='margin-left:1em;'>
-I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught *Aedes aegypti* mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
+I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti<i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
 </p></span>
 </div>
 
