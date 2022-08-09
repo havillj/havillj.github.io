@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
  
- ### Computational Biology
+### Computational Biology
  
 I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught *Aedes aegypti* mosquitoes.  With my collaborator, [Andrea Gloria-Soria](https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria), I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
 
@@ -15,7 +15,7 @@ In the past, I worked on algorithms and software for detecting [riboswitches](ht
 
 [Bringing extinct sponges to life: StromoGrow, a new program for modeling stromatoporoid growth](/files/StromoGrow-Poster2.pdf) (abstract/poster, with T. E. Masters and D. H. Goodwin).  *Geological Society of America Annual Meeting, Denver*, Colorado, 2013.
  
- ### Interdisciplinary Computer Science Education
+### Interdisciplinary Computer Science Education
  
 Computer Science is a uniquely interdisciplinary field, as computing is now somehow involved in virtually everything we do.  To empower *everyone* in the next generation to harness the power of computing, we need to meet students at least halfway.  In this spirit, introductory computing courses should demonstrate to students how computing has become a powerful mode of inquiry, and a vehicle of discovery, in a wide variety of disciplines.  The courses should be inviting to students of the natural and social sciences, and the humanities, who increasingly benefit from an introduction to computational thinking, beyond the limited ``black box'' recipes often found in manuals and ``Computing for X'' books.  So that students don't get stuck when they run out of recipes, the courses should engage students in computational problem solving, and lead them to discover the power of abstraction, efficiency, and data organization in the design of their solutions.  Students learn the core principles, and experience the thrill of seeing their solutions come to life, by implementing their solutions as computer programs.
 
@@ -29,7 +29,7 @@ With largely the same goals, in my previous position, I proposed a new interdisc
 
 [Technically Speaking: Fostering the Communication Skills of Computer Science and Mathematics Students](https://dl.acm.org/doi/10.1145/1227504.1227375) (with L. D. Ludwig).  *ACM SIGCSE Technical Symposium on CS Education*, 185—189, 2007.
  
- ### Online Algorithms
+### Online Algorithms
  
 An online algorithm is designed to respond to input as it arrives in a stream rather than all at once like a "traditional" algorithm.  For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later.  Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future.  Instead, we try to design an online algorithm whose performance, for all possible inputs, is provably within some small factor of that of an optimal algorithm that sees all of the input in advance.
 
