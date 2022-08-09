@@ -11,14 +11,15 @@ author_profile: true
 <span>
 <p style='margin-left:1em;'>
 I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught *Aedes aegypti* mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
-
- In the past, I worked on algorithms and software for detecting <a href="https://www.nature.com/scitable/topicpage/riboswitches-a-common-rna-regulatory-element-14262702/">riboswitches</a> in genomic sequences and visualizing the growth of <a href="https://ucmp.berkeley.edu/online-exhibits/stromatoporoids/">stromatoporoids</a>.
 </p></span>
 </div>
 
-I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught *Aedes aegypti* mosquitoes.  With my collaborator, [Andrea Gloria-Soria](https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria), I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
-
-In the past, I worked on algorithms and software for detecting [riboswitches](https://www.nature.com/scitable/topicpage/riboswitches-a-common-rna-regulatory-element-14262702/) in genomic sequences and visualizing the growth of [stromatoporoids](https://ucmp.berkeley.edu/online-exhibits/stromatoporoids/).
+<div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
+<span>
+<p style='margin-left:1em;'>
+In the past, I worked on algorithms and software for detecting <a href="https://www.nature.com/scitable/topicpage/riboswitches-a-common-rna-regulatory-element-14262702/">riboswitches</a> in genomic sequences and visualizing the growth of <a href="https://ucmp.berkeley.edu/online-exhibits/stromatoporoids/">stromatoporoids</a>.
+</p></span>
+</div>
 
 [A new approach for detecting riboswitches in DNA sequences](https://doi.org/10.1093/bioinformatics/btu479) (with C. Bhatiya, S. M. Johnson, J. D. Sheets, J. S. Thompson).  *Bionformatics* 30(21), pp. 3012—3019, 2014.
 
