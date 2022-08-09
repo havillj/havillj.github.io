@@ -21,9 +21,9 @@ In the past, I worked on algorithms and software for detecting <a href="https://
 </p>
 </div>
 
-[A new approach for detecting riboswitches in DNA sequences](https://doi.org/10.1093/bioinformatics/btu479) (with C. Bhatiya, S. M. Johnson, J. D. Sheets, J. S. Thompson).  *Bionformatics* 30(21), pp. 3012—3019, 2014.
+> [A new approach for detecting riboswitches in DNA sequences](https://doi.org/10.1093/bioinformatics/btu479) (with C. Bhatiya, S. M. Johnson, J. D. Sheets, J. S. Thompson).  *Bionformatics* 30(21), pp. 3012—3019, 2014.
 
-[Bringing extinct sponges to life: StromoGrow, a new program for modeling stromatoporoid growth](/files/StromoGrow-Poster2.pdf) (abstract/poster, with T. E. Masters and D. H. Goodwin).  *Geological Society of America Annual Meeting, Denver*, Colorado, 2013.
+> [Bringing extinct sponges to life: StromoGrow, a new program for modeling stromatoporoid growth](/files/StromoGrow-Poster2.pdf) (abstract/poster, with T. E. Masters and D. H. Goodwin).  *Geological Society of America Annual Meeting, Denver*, Colorado, 2013.
  
 ### Interdisciplinary Computer Science Education
 
@@ -41,7 +41,7 @@ These were my goals when I wrote <a href="http://www.discoveringcs.net">Discover
 </p>
 </div>
  
-[Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming](http://www.discoveringcs.net), Second Edition. Chapman & Hall/CRC Textbooks in Computing, Taylor & Francis Group, 2021.  (The first edition was published in 2016.)
+> [Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming](http://www.discoveringcs.net), Second Edition. Chapman & Hall/CRC Textbooks in Computing, Taylor & Francis Group, 2021.  (The first edition was published in 2016.)
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <p style='margin-left:1em;margin-right:1em;'>
@@ -49,7 +49,7 @@ With largely the same goals, in my previous position, I proposed a new interdisc
 </p>
 </div>
 
-[Embracing the Liberal Arts in an Interdisciplinary Data Analytics Program](https://dl.acm.org/doi/10.1145/3287324.3287436).  *ACM SIGCSE Technical Symposium on Computer Science Education*, 2019.
+> [Embracing the Liberal Arts in an Interdisciplinary Data Analytics Program](https://dl.acm.org/doi/10.1145/3287324.3287436).  *ACM SIGCSE Technical Symposium on Computer Science Education*, 2019.
 
 <!-- [Technically Speaking: Fostering the Communication Skills of Computer Science and Mathematics Students](https://dl.acm.org/doi/10.1145/1227504.1227375) (with L. D. Ludwig).  *ACM SIGCSE Technical Symposium on CS Education*, 185—189, 2007. -->
  
@@ -61,10 +61,10 @@ An online algorithm is designed to respond to input as it arrives in a stream ra
 </p>
 </div>
 
-[Improved Upper Bounds for Online Malleable Job Scheduling](https://doi.org/10.1007/s10951-014-0406-9) (with N. Kell). *Journal of Scheduling* 18(4), pp. 393 —410, 2015.
+> [Improved Upper Bounds for Online Malleable Job Scheduling](https://doi.org/10.1007/s10951-014-0406-9) (with N. Kell). *Journal of Scheduling* 18(4), pp. 393 —410, 2015.
 
-[Optimal Online Ring Routing](https://doi.org/10.1002/net.20400) (with K. R. Hutson).  *Networks* 57(2), pp. 187—197, 2011.
+> [Optimal Online Ring Routing](https://doi.org/10.1002/net.20400) (with K. R. Hutson).  *Networks* 57(2), pp. 187—197, 2011.
 
-[Online Malleable Job Scheduling for *m* ≤ 3](https://doi.org/10.1016/j.ipl.2010.10.010).  *Information Processing Letters* 111(1), pp. 31—35, 2010.
+> [Online Malleable Job Scheduling for *m* ≤ 3](https://doi.org/10.1016/j.ipl.2010.10.010).  *Information Processing Letters* 111(1), pp. 31—35, 2010.
 
-[Competitive Online Scheduling of Perfectly Malleable Jobs with Setup Times](https://doi.org/10.1016/j.ejor.2006.06.064) (with W. Mao).  *European Journal of Operational Research* 187(3), pp. 1126—1142, 2008.
+> [Competitive Online Scheduling of Perfectly Malleable Jobs with Setup Times](https://doi.org/10.1016/j.ejor.2006.06.064) (with W. Mao).  *European Journal of Operational Research* 187(3), pp. 1126—1142, 2008.
