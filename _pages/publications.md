@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <span>
-<p style='margin-left:1em;'>
+<p style='margin-left:1em;margin-right:1em;'>
 I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti</i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
 </p></span>
 </div>
@@ -18,7 +18,7 @@ I am currently working on a problem in computational biology in which we aim to 
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <span>
-<p style='margin-left:1em;'>
+<p style='margin-left:1em;margin-right:1em;'>
 In the past, I worked on algorithms and software for detecting <a href="https://www.nature.com/scitable/topicpage/riboswitches-a-common-rna-regulatory-element-14262702/">riboswitches</a> in genomic sequences and visualizing the growth of <a href="https://ucmp.berkeley.edu/online-exhibits/stromatoporoids/">stromatoporoids</a>.
 </p></span>
 </div>
@@ -31,15 +31,15 @@ In the past, I worked on algorithms and software for detecting <a href="https://
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <span>
-<p style='margin-left:1em;'>
+<p style='margin-left:1em;margin-right:1em;'>
 Computer Science is a uniquely interdisciplinary field, as computing is now somehow involved in virtually everything we do.  To empower <b>everyone</b> in the next generation to harness the power of computing, we need to meet students at least halfway.  
 </p>
  
-<p style='margin-left:1em;'>
+<p style='margin-left:1em;margin-right:1em;'>
 In this spirit, introductory computing courses should demonstrate to students how computing has become a powerful mode of inquiry, and a vehicle of discovery, in a wide variety of disciplines.  The courses should be inviting to students of the natural and social sciences, and the humanities, who increasingly benefit from an introduction to computational thinking, beyond the limited "black box" recipes often found in manuals and "Computing for X" books.  So that students don't get stuck when they run out of recipes, the courses should engage students in computational problem solving, and lead them to discover the power of abstraction, efficiency, and data organization in the design of their solutions.  Students learn the core principles, and experience the thrill of seeing their solutions come to life, by implementing their solutions as computer programs.
  </p>
 
- <p style='margin-left:1em;'>
+ <p style='margin-left:1em;margin-right:1em;'>
 These were my goals when I wrote <a href="http://www.discoveringcs.net">Discovering Computer Science</a>.  Unlike most introductory computer science textbooks, which are organized around programming language constructs, I deliberately lead with interdisciplinary problems and techniques.  This orientation is  more interesting to a more diverse audience, and more accurately reflects the role of programming in problem solving and discovery.  A computational discovery does not, of course, originate in a programming language feature in search of an application.  Rather, it starts with a compelling problem which is modeled and solved algorithmically, by leveraging abstraction and prior experience with similar problems.  Only then is the solution implemented as a program.  
 </p></span>
 </div>
@@ -48,7 +48,7 @@ These were my goals when I wrote <a href="http://www.discoveringcs.net">Discover
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <span>
-<p style='margin-left:1em;'>
+<p style='margin-left:1em;margin-right:1em;'>
 With largely the same goals, in my previous position, I proposed a new interdisciplinary major in Data Analytics.  A committee of like-minded faculty from seven disciplines in the social and natural sciences collectively brought the program to life in 2016, and I served as its first Director.
 </p></span>
 </div>
@@ -61,7 +61,7 @@ With largely the same goals, in my previous position, I proposed a new interdisc
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <span>
-<p style='margin-left:1em;'>
+<p style='margin-left:1em;margin-right:1em;'>
 An online algorithm is designed to respond to input as it arrives in a stream rather than all at once like a "traditional" algorithm.  For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later.  Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future.  Instead, we try to design an online algorithm whose performance, for all possible inputs, is provably within some small factor of that of an optimal algorithm that sees all of the input in advance.
 </p></span>
 </div>
