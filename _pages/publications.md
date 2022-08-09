@@ -8,19 +8,17 @@ author_profile: true
 ### Computational Biology
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
-<span>
 <p style='margin-left:1em;margin-right:1em;'>
 I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti</i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a subset of these specimens.
-</p></span>
+</p>
 </div>
 
 <div><p></p></div>
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
-<span>
 <p style='margin-left:1em;margin-right:1em;'>
 In the past, I worked on algorithms and software for detecting <a href="https://www.nature.com/scitable/topicpage/riboswitches-a-common-rna-regulatory-element-14262702/">riboswitches</a> in genomic sequences and visualizing the growth of <a href="https://ucmp.berkeley.edu/online-exhibits/stromatoporoids/">stromatoporoids</a>.
-</p></span>
+</p>
 </div>
 
 [A new approach for detecting riboswitches in DNA sequences](https://doi.org/10.1093/bioinformatics/btu479) (with C. Bhatiya, S. M. Johnson, J. D. Sheets, J. S. Thompson).  *Bionformatics* 30(21), pp. 3012—3019, 2014.
@@ -30,7 +28,6 @@ In the past, I worked on algorithms and software for detecting <a href="https://
 ### Interdisciplinary Computer Science Education
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
-<span>
 <p style='margin-left:1em;margin-right:1em;'>
 Computer Science is a uniquely interdisciplinary field, as computing is now somehow involved in virtually everything we do.  To empower <b>everyone</b> in the next generation to harness the power of computing, we need to meet students at least halfway.  
 </p>
@@ -41,16 +38,15 @@ In this spirit, introductory computing courses should demonstrate to students ho
 
  <p style='margin-left:1em;margin-right:1em;'>
 These were my goals when I wrote <a href="http://www.discoveringcs.net">Discovering Computer Science</a>.  Unlike most introductory computer science textbooks, which are organized around programming language constructs, I deliberately lead with interdisciplinary problems and techniques.  This orientation is  more interesting to a more diverse audience, and more accurately reflects the role of programming in problem solving and discovery.  A computational discovery does not, of course, originate in a programming language feature in search of an application.  Rather, it starts with a compelling problem which is modeled and solved algorithmically, by leveraging abstraction and prior experience with similar problems.  Only then is the solution implemented as a program.  
-</p></span>
+</p>
 </div>
  
 [Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming](http://www.discoveringcs.net), Second Edition. Chapman & Hall/CRC Textbooks in Computing, Taylor & Francis Group, 2021.  (The first edition was published in 2016.)
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
-<span>
 <p style='margin-left:1em;margin-right:1em;'>
 With largely the same goals, in my previous position, I proposed a new interdisciplinary major in Data Analytics.  A committee of like-minded faculty from seven disciplines in the social and natural sciences collectively brought the program to life in 2016, and I served as its first Director.
-</p></span>
+</p>
 </div>
 
 [Embracing the Liberal Arts in an Interdisciplinary Data Analytics Program](https://dl.acm.org/doi/10.1145/3287324.3287436).  *ACM SIGCSE Technical Symposium on Computer Science Education*, 2019.
@@ -60,10 +56,9 @@ With largely the same goals, in my previous position, I proposed a new interdisc
 ### Online Algorithms
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
-<span>
 <p style='margin-left:1em;margin-right:1em;'>
 An online algorithm is designed to respond to input as it arrives in a stream rather than all at once like a "traditional" algorithm.  For example, an online room scheduling algorithm would have to assign a room to each event as it "arrives" without knowing what events might need to be scheduled later.  Online algorithms usually cannot come up with optimal solutions due to their lack of knowledge about the future.  Instead, we try to design an online algorithm whose performance, for all possible inputs, is provably within some small factor of that of an optimal algorithm that sees all of the input in advance.
-</p></span>
+</p>
 </div>
 
 [Improved Upper Bounds for Online Malleable Job Scheduling](https://doi.org/10.1007/s10951-014-0406-9) (with N. Kell). *Journal of Scheduling* 18(4), pp. 393 —410, 2015.
