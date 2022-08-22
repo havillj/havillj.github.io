@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /buid/
 title: "Old BUID"
 excerpt: "My OLD BUID"
 author_profile: true
