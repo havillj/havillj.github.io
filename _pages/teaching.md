@@ -10,6 +10,7 @@ author_profile: true
 - [CSCI 204: Data Structures & Algorithms](https://csci20402fa2022.courses.bucknell.edu)
 - [CSCI 311: Algorithm Design & Analysis](https://csci31103fa2022.courses.bucknell.edu)
 
+<!--
 ### Past (Denison University)
 
 - FYS 102: Algorithmics 
@@ -36,3 +37,4 @@ author_profile: true
 - CS 375: Computer Networks
 - CS 377: Database Systems
 - CS 401: Natural Language Processing
+-->
