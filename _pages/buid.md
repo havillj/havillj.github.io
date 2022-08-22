@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "I'm old!"
+title: "My Bucknell Student ID!"
 permalink: /buid/
 author_profile: true
 ---
