@@ -7,8 +7,8 @@ author_profile: true
 
 ### Current (Fall, 2022)
 
-- [https://csci20402fa2022.courses.bucknell.edu](CSCI 204: Data Structures & Algorithms)
-- [https://csci31103fa2022.courses.bucknell.edu](CSCI 311: Algorithm Design & Analysis)
+- [CSCI 204: Data Structures & Algorithms](https://csci20402fa2022.courses.bucknell.edu)
+- [CSCI 311: Algorithm Design & Analysis](https://csci31103fa2022.courses.bucknell.edu)
 
 ### Past (Denison University)
 
