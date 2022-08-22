@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Old BUID"
+title: "I'm old!"
 permalink: /buid/
 author_profile: true
 ---
 
-![](/files/BUID.jpeg)
+<img src="BUID.jpeg" alt="old BUID" width="200"/>
