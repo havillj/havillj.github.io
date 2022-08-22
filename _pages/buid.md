@@ -1,11 +1,8 @@
 ---
-permalink: /buid/
+layout: archive
 title: "Old BUID"
-excerpt: "My OLD BUID"
+permalink: /buid/
 author_profile: true
-redirect_from: 
-  - /buid/
-  - /buid.html
 ---
 
 ![](/files/BUID.jpeg)
