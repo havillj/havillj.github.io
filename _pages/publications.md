@@ -45,7 +45,7 @@ These were my goals when I wrote <a href="http://www.discoveringcs.net">Discover
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <p style='margin-left:1em;margin-right:1em;'>
-With largely the same goals, in my previous position at <a href="https://denison.edu/academics/data-analytics">Denison University</a>), I proposed a new interdisciplinary major in Data Analytics.  A great committee of like-minded faculty from seven disciplines in the social and natural sciences collectively brought the program to life in 2016, and I served as its first Director.
+With largely the same goals, in my previous position at <a href="https://denison.edu/academics/data-analytics">Denison University</a>, I proposed a new interdisciplinary major in Data Analytics.  A great committee of like-minded faculty from seven disciplines in the social and natural sciences collectively brought the program to life in 2016, and I served as its first Director.
 </p>
 </div>
 
