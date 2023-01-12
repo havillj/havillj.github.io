@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Current (Fall, 2022)
+### Current (Spring, 2023)
+- CSCI 308: Programming Language Design
+
+### Fall, 2022
 
 - [CSCI 204: Data Structures & Algorithms](https://csci20402fa2022.courses.bucknell.edu)
 - [CSCI 311: Algorithm Design & Analysis](https://csci31103fa2022.courses.bucknell.edu)
