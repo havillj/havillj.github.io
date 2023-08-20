@@ -20,13 +20,13 @@ I live in Lewisburg with my family and an overly protective little dog named Sul
 
 📧 jessen.havill@bucknell.edu
 
-🏫 Dana Engineering 326
+🏫 Dana Engineering 311B
 
 ☎️ (570) 577-3695
 
 ✉️ <br>
 Dept. of Computer Science<br>
-326 Dana Engineering<br>
+311B Dana Engineering<br>
 Bucknell University<br>
 Lewisburg, PA 17837
 
