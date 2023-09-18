@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ### Current (Fall, 2023)
-- CSCI 203: Introduction to Computer Science
+- [CSCI 203: Introduction to Computer Science](https://csci20302fa2023.courses.bucknell.edu)
 - [CSCI 311: Algorithm Design & Analysis](https://csci31102fa2023.courses.bucknell.edu)
   
 ### Spring, 2023
