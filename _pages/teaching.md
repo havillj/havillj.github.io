@@ -4,7 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-### Current (Fall, 2023)
+### Current (Spring, 2024)
+- [CSCI 203: Introduction to Computer Science](https://csci.courses.bucknell.edu/203/csci-203-03-spring-2024/)
+- CSCI 308: Programming Language Design
+
+### Fall, 2023
 - [CSCI 203: Introduction to Computer Science](https://csci20302fa2023.courses.bucknell.edu)
 - [CSCI 311: Algorithm Design & Analysis](https://csci31102fa2023.courses.bucknell.edu)
   
