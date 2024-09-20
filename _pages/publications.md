@@ -9,9 +9,11 @@ author_profile: true
 
 <div class="warning" style='padding:0.1em; background-color:#EEEEFF'>
 <p style='margin-left:1em;margin-right:1em;'>
-I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti</i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes.  We are working on a paper describing the tool and some of our initial findings on a set of specimens from around the world.
+I am currently working on a problem in computational biology in which we aim to characterize novel sequences of DNA, likely derived from ancient viruses, in the genomes of wild-caught <i>Aedes aegypti</i> mosquitoes.  With my collaborator, <a href="https://portal.ct.gov/CAES/ABOUT-CAES/Staff-Biographies/Andrea-Gloria-Soria">Dr. Andrea Gloria-Soria</a>, I am writing a computational tool that is able to locate these sequences in individual mosquito genomes. 
 </p>
 </div>
+
+> EVE-X: Software to Identify Novel Viral Insertions in Wild-Caught Arthropod Hosts from Next-Generation Short Read Data (with Olivia Strasburg, Tessy Udoh, Jacob E. Crawford, and Andrea Gloria-Soria).  *Molecular Ecology Resources*, to appear, 2024.
 
 <div><p></p></div>
 
