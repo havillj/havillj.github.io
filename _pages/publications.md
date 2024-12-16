@@ -13,7 +13,7 @@ I am currently working on a problem in computational biology in which we aim to 
 </p>
 </div>
 
-> [EVE-X: Software to Identify Novel Viral Insertions in Wild-Caught Arthropod Hosts from Next-Generation Short Read Data](https://doi.org/10.1111/1755-0998.14026) (with Olivia Strasburg, Tessy Udoh, Jacob E. Crawford, and Andrea Gloria-Soria).  *Molecular Ecology Resources*, 2024.
+> [EVE-X: Software to Identify Novel Viral Insertions in Wild-Caught Arthropod Hosts from Next-Generation Short Read Data](https://doi.org/10.1111/1755-0998.14026) (with Olivia Strasburg, Tessy Udoh, Jacob E. Crawford, and Andrea Gloria-Soria).  *Molecular Ecology Resources* 25(e14026), 2025.
 
 <div><p></p></div>
 
