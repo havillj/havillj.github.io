@@ -4,7 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-### Current (Fall, 2024)
+### Current (Spring, 2025)
+- [CSCI 311: Algorithm Design & Analysis](https://csci.courses.bucknell.edu/311/csci-311-02-spring-2025/)
+  
+### Fall, 2024
 - [CSCI 203: Introduction to Computer Science](https://csci.courses.bucknell.edu/203/csci-203-03-fall-2024/)
 - CSCI 306: Computer Systems
 
